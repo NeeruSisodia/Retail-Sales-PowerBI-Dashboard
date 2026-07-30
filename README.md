@@ -26,12 +26,13 @@ This project is an interactive Power BI dashboard built using the Sample Superst
 - Ship Mode
 - Category
 
-## Tools Used
+## Tools & Technologies
 
 - Power BI Desktop
 - Power Query
 - DAX
 - Data Modeling
+- Data Visualization
 
 ## Dataset
 
@@ -53,7 +54,15 @@ Sample Superstore Dataset
 
 ## Dashboard Preview
 
-![Dashboard Preview](Images/Dashboard.png)s
+![Dashboard Preview](Images/Dashboard.png)
+
+## Business Insights
+
+- Technology generated the highest sales among all product categories.
+- The West region recorded the highest overall sales.
+- Standard Class was the most frequently used shipping mode.
+- Interactive slicers enable dynamic analysis by Region, Segment, Category, and Ship Mode.
+- Profit Margin KPI helps evaluate overall business profitability.
 
 ## Author
 
