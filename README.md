@@ -53,7 +53,7 @@ Sample Superstore Dataset
 
 ## Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Images/Dashboard.png)s
 
 ## Author
 
