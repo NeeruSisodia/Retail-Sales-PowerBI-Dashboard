@@ -1,4 +1,4 @@
-# Retail Sales Performance Dashboard
+# Business Intelligence Dashboard for Retail Sales
 
 ## Project Overview
 
